@@ -1,0 +1,736 @@
+01/24/2018 03:10:51 PM - INFO - ***Evolving 10 generations with population 20***
+01/24/2018 03:10:51 PM - INFO - ***Doing generation 1 of 10***
+01/24/2018 03:11:14 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adagrad', 'dropout': 0.8}
+[0.53346920194047875, 0.76515151515151514]
+
+
+
+01/24/2018 03:11:43 PM - INFO - {'nb_neurons': 96, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adadelta', 'dropout': 0.3}
+[1.2390925848122798, 0.75378787878787878]
+
+
+
+01/24/2018 03:12:02 PM - INFO - {'nb_neurons': 48, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'sgd', 'dropout': 0.4}
+[0.54581591938481189, 0.72727272727272729]
+
+
+
+01/24/2018 03:12:18 PM - INFO - {'nb_neurons': 8, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop', 'dropout': 0.3}
+[0.54010942488005664, 0.75757575757575757]
+
+
+
+01/24/2018 03:12:51 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.3}
+[1.4249999378666733, 0.77272727272727271]
+
+
+
+01/24/2018 03:13:12 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'nadam', 'dropout': 0.3}
+[2.2323900605693008, 0.76515151515151514]
+
+
+
+01/24/2018 03:13:40 PM - INFO - {'nb_neurons': 96, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.5919358549696025, 0.77272727272727271]
+
+
+
+01/24/2018 03:14:05 PM - INFO - {'nb_neurons': 96, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.6}
+[0.90825483835104737, 0.77272727272727271]
+
+
+
+01/24/2018 03:14:26 PM - INFO - {'nb_neurons': 48, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adagrad', 'dropout': 0.6}
+[0.88567310752290673, 0.75]
+
+
+
+01/24/2018 03:14:55 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'nadam', 'dropout': 0.8}
+[1.3618423107898596, 0.76515151515151514]
+
+
+
+01/24/2018 03:15:51 PM - INFO - ***Evolving 10 generations with population 20***
+01/24/2018 03:15:51 PM - INFO - ***Doing generation 1 of 10***
+01/24/2018 03:15:57 PM - INFO - {'nb_neurons': 128, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax', 'dropout': 0.3}
+[0.69504323150172376, 0.74621212121212122]
+
+
+
+01/24/2018 03:16:05 PM - INFO - {'nb_neurons': 16, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.66328372016097559, 0.75]
+
+
+
+01/24/2018 03:16:14 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta', 'dropout': 0.3}
+[0.52658619483311975, 0.77272727272727271]
+
+
+
+01/24/2018 03:16:21 PM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'adadelta', 'dropout': 0.3}
+[0.60398200425234705, 0.75378787878787878]
+
+
+
+01/24/2018 03:16:35 PM - INFO - {'nb_neurons': 16, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adadelta', 'dropout': 0.3}
+[0.53821190559502807, 0.76515151515151514]
+
+
+
+01/24/2018 03:17:18 PM - INFO - ***Evolving 10 generations with population 20***
+01/24/2018 03:17:18 PM - INFO - ***Doing generation 1 of 10***
+01/24/2018 03:17:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam', 'dropout': 0.6}
+[0.99876098921804712, 0.75757575757575757]
+
+
+
+01/24/2018 03:22:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd', 'dropout': 0.3}
+[0.52891516324245569, 0.76893939393939392]
+
+
+
+01/24/2018 03:23:08 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.4}
+[1.2036796808242798, 0.78030303030303028]
+
+
+
+01/24/2018 03:23:23 PM - INFO - {'nb_neurons': 16, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[0.88763380231279321, 0.74621212121212122]
+
+
+
+01/24/2018 03:23:35 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.2280569437778357, 0.76515151515151514]
+
+
+
+01/24/2018 03:23:47 PM - INFO - {'nb_neurons': 16, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.2}
+[0.78269563479857007, 0.75378787878787878]
+
+
+
+01/24/2018 03:24:09 PM - INFO - {'nb_neurons': 8, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'nadam', 'dropout': 0.6}
+[1.0447101629141606, 0.74242424242424243]
+
+
+
+01/24/2018 03:24:40 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adadelta', 'dropout': 0.7}
+[0.60081904945951514, 0.76515151515151514]
+
+
+
+01/24/2018 03:25:04 PM - INFO - {'nb_neurons': 8, 'nb_layers': 4, 'activation': 'relu', 'optimizer': 'adam', 'dropout': 0.5}
+[1.3022745883826055, 0.71590909090909094]
+
+
+
+01/24/2018 03:25:22 PM - INFO - {'nb_neurons': 64, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad', 'dropout': 0.8}
+[0.67963641340082337, 0.68560606060606055]
+
+
+
+01/24/2018 03:25:40 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adadelta', 'dropout': 0.5}
+[0.65487242106235388, 0.76136363636363635]
+
+
+
+01/24/2018 03:27:20 PM - INFO - {'nb_neurons': 48, 'nb_layers': 4, 'activation': 'tanh', 'optimizer': 'sgd', 'dropout': 0.6}
+[0.56725548433535022, 0.72348484848484851]
+
+
+
+01/24/2018 03:27:32 PM - INFO - {'nb_neurons': 16, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.3}
+[1.4273748939687556, 0.75]
+
+
+
+01/24/2018 03:27:57 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'rmsprop', 'dropout': 0.8}
+[1.0270405682650479, 0.76515151515151514]
+
+
+
+01/24/2018 03:28:14 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.2495657819690127, 0.78787878787878785]
+
+
+
+01/24/2018 03:28:27 PM - INFO - {'nb_neurons': 48, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'nadam', 'dropout': 0.2}
+[0.92887357509497437, 0.75757575757575757]
+
+
+
+01/24/2018 03:28:47 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad', 'dropout': 0.2}
+[1.4244678164973403, 0.77651515151515149]
+
+
+
+01/24/2018 03:29:01 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.0550979303591179, 0.76893939393939392]
+
+
+
+01/24/2018 03:29:13 PM - INFO - {'nb_neurons': 16, 'nb_layers': 1, 'activation': 'tanh', 'optimizer': 'adam', 'dropout': 0.6}
+[0.64660125158049842, 0.75]
+
+
+
+01/24/2018 03:29:30 PM - INFO - {'nb_neurons': 16, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adadelta', 'dropout': 0.5}
+[0.66436308983600501, 0.74621212121212122]
+
+
+
+01/24/2018 03:29:30 PM - INFO - Generation average: 75.34%
+01/24/2018 03:29:30 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:29:30 PM - INFO - ***Doing generation 2 of 10***
+01/24/2018 03:29:46 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.7960458939725702, 0.77272727272727271]
+
+
+
+01/24/2018 03:30:02 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.0733633763862378, 0.76515151515151514]
+
+
+
+01/24/2018 03:30:15 PM - INFO - {'nb_neurons': 16, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[0.80471609577988135, 0.75378787878787878]
+
+
+
+01/24/2018 03:30:30 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.4303676215085117, 0.74242424242424243]
+
+
+
+01/24/2018 03:30:44 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.1725171298691721, 0.78030303030303028]
+
+
+
+01/24/2018 03:30:59 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.1101050900690483, 0.74621212121212122]
+
+
+
+01/24/2018 03:31:18 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.1877118023959072, 0.78787878787878785]
+
+
+
+01/24/2018 03:31:36 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adadelta', 'dropout': 0.5}
+[0.67732581767168909, 0.75757575757575757]
+
+
+
+01/24/2018 03:36:26 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'sgd', 'dropout': 0.2}
+[0.54254976727745752, 0.74621212121212122]
+
+
+
+01/24/2018 03:36:40 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.3}
+[1.0556385878360632, 0.78030303030303028]
+
+
+
+01/24/2018 03:36:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.2256318186268662, 0.73484848484848486]
+
+
+
+01/24/2018 03:36:56 PM - INFO - Generation average: 76.50%
+01/24/2018 03:36:56 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:36:56 PM - INFO - ***Doing generation 3 of 10***
+01/24/2018 03:37:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.94829083933974756, 0.76893939393939392]
+
+
+
+01/24/2018 03:37:32 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.87648343859296851, 0.76515151515151514]
+
+
+
+01/24/2018 03:37:47 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'adagrad', 'dropout': 0.2}
+[1.4198738372687139, 0.75757575757575757]
+
+
+
+01/24/2018 03:38:03 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.8}
+[0.69310395825992932, 0.49242424242424243]
+
+
+
+01/24/2018 03:38:25 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.97150098464705725, 0.79545454545454541]
+
+
+
+01/24/2018 03:38:43 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'rmsprop', 'dropout': 0.4}
+[1.0089058695417461, 0.76515151515151514]
+
+
+
+01/24/2018 03:39:02 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.1223995432709202, 0.78030303030303028]
+
+
+
+01/24/2018 03:39:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2421828652873184, 0.78030303030303028]
+
+
+
+01/24/2018 03:39:39 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.4}
+[1.6416016853216924, 0.74621212121212122]
+
+
+
+01/24/2018 03:39:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.90210853923450818, 0.78409090909090906]
+
+
+
+01/24/2018 03:39:56 PM - INFO - Generation average: 75.91%
+01/24/2018 03:39:56 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:39:56 PM - INFO - ***Doing generation 4 of 10***
+01/24/2018 03:40:15 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.94611186511588818, 0.79545454545454541]
+
+
+
+01/24/2018 03:40:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[1.0540534835873228, 0.76893939393939392]
+
+
+
+01/24/2018 03:41:03 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.8387820214936228, 0.78787878787878785]
+
+
+
+01/24/2018 03:41:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.82960135105884436, 0.77651515151515149]
+
+
+
+01/24/2018 03:41:47 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'adamax', 'dropout': 0.4}
+[0.65270280476772424, 0.75757575757575757]
+
+
+
+01/24/2018 03:42:12 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.89915631756638037, 0.76893939393939392]
+
+
+
+01/24/2018 03:42:34 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.4}
+[1.1500669392672451, 0.77651515151515149]
+
+
+
+01/24/2018 03:42:56 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.4793200781851104, 0.76893939393939392]
+
+
+
+01/24/2018 03:43:19 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.459333669055592, 0.76893939393939392]
+
+
+
+01/24/2018 03:43:38 PM - INFO - {'nb_neurons': 96, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.1506717132799553, 0.77272727272727271]
+
+
+
+01/24/2018 03:43:55 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.035183056285887, 0.78030303030303028]
+
+
+
+01/24/2018 03:44:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'sgd', 'dropout': 0.2}
+[0.52073500553766883, 0.75]
+
+
+
+01/24/2018 03:44:52 PM - INFO - Generation average: 77.75%
+01/24/2018 03:44:52 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:44:52 PM - INFO - ***Doing generation 5 of 10***
+01/24/2018 03:45:07 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.78166750163742993, 0.77272727272727271]
+
+
+
+01/24/2018 03:45:23 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.4}
+[0.91921589591286401, 0.75378787878787878]
+
+
+
+01/24/2018 03:45:46 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.98453022494460596, 0.76136363636363635]
+
+
+
+01/24/2018 03:46:07 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.95219215299143933, 0.78030303030303028]
+
+
+
+01/24/2018 03:46:29 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[1.0398973063989119, 0.76136363636363635]
+
+
+
+01/24/2018 03:46:48 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.84642556400010083, 0.77272727272727271]
+
+
+
+01/24/2018 03:47:04 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.1333578608252786, 0.77272727272727271]
+
+
+
+01/24/2018 03:47:21 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.1667619076642124, 0.76893939393939392]
+
+
+
+01/24/2018 03:47:41 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.4}
+[1.0770444599064914, 0.77651515151515149]
+
+
+
+01/24/2018 03:48:00 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.4}
+[1.1340764869343152, 0.78030303030303028]
+
+
+
+01/24/2018 03:48:28 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adadelta', 'dropout': 0.5}
+[0.72912580497337109, 0.77272727272727271]
+
+
+
+01/24/2018 03:48:56 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2568788528442383, 0.76893939393939392]
+
+
+
+01/24/2018 03:48:56 PM - INFO - Generation average: 77.71%
+01/24/2018 03:48:56 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:48:56 PM - INFO - ***Doing generation 6 of 10***
+01/24/2018 03:49:18 PM - INFO - {'nb_neurons': 48, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adam', 'dropout': 0.7}
+[0.95258990562323365, 0.78030303030303028]
+
+
+
+01/24/2018 03:49:47 PM - INFO - {'nb_neurons': 48, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2945212992754849, 0.75757575757575757]
+
+
+
+01/24/2018 03:50:32 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.67061144836021191, 0.76893939393939392]
+
+
+
+01/24/2018 03:50:51 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.63352973714019312, 0.78030303030303028]
+
+
+
+01/24/2018 03:51:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2103240742827908, 0.77272727272727271]
+
+
+
+01/24/2018 03:51:29 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.2}
+[1.6139758933674206, 0.75]
+
+
+
+01/24/2018 03:51:49 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.70697424086657434, 0.78030303030303028]
+
+
+
+01/24/2018 03:52:10 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.92303757956533716, 0.76893939393939392]
+
+
+
+01/24/2018 03:52:29 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.84147965637120337, 0.78030303030303028]
+
+
+
+01/24/2018 03:52:51 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.86125664638750477, 0.78409090909090906]
+
+
+
+01/24/2018 03:53:12 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.89685855580098706, 0.78787878787878785]
+
+
+
+01/24/2018 03:53:37 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.9409403313289989, 0.78787878787878785]
+
+
+
+01/24/2018 03:53:37 PM - INFO - Generation average: 77.99%
+01/24/2018 03:53:37 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:53:37 PM - INFO - ***Doing generation 7 of 10***
+01/24/2018 03:54:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.86175585515571362, 0.78787878787878785]
+
+
+
+01/24/2018 03:54:22 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.94185889128482703, 0.77651515151515149]
+
+
+
+01/24/2018 03:54:40 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.72825845263221045, 0.78787878787878785]
+
+
+
+01/24/2018 03:55:06 PM - INFO - {'nb_neurons': 8, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.69591557618343469, 0.73863636363636365]
+
+
+
+01/24/2018 03:55:31 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.99296803546674328, 0.77651515151515149]
+
+
+
+01/24/2018 03:56:01 PM - INFO - {'nb_neurons': 16, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.70312223289952136, 0.72727272727272729]
+
+
+
+01/24/2018 03:56:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[1.0651198201107257, 0.77272727272727271]
+
+
+
+01/24/2018 03:57:01 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[1.0611019847971019, 0.78409090909090906]
+
+
+
+01/24/2018 03:57:21 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.66593244762131665, 0.76893939393939392]
+
+
+
+01/24/2018 03:57:39 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.82565957488435693, 0.78409090909090906]
+
+
+
+01/24/2018 03:57:59 PM - INFO - {'nb_neurons': 64, 'nb_layers': 1, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.66366477084882336, 0.76515151515151514]
+
+
+
+01/24/2018 03:57:59 PM - INFO - Generation average: 77.82%
+01/24/2018 03:57:59 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 03:57:59 PM - INFO - ***Doing generation 8 of 10***
+01/24/2018 03:58:22 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.254780442425699, 0.76893939393939392]
+
+
+
+01/24/2018 03:58:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.87731471206202649, 0.77651515151515149]
+
+
+
+01/24/2018 03:59:05 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.6009011340863777, 0.75378787878787878]
+
+
+
+01/24/2018 03:59:36 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.74394325595913513, 0.76515151515151514]
+
+
+
+01/24/2018 03:59:57 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.97179848497564147, 0.75757575757575757]
+
+
+
+01/24/2018 04:00:19 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.88948855436209473, 0.78030303030303028]
+
+
+
+01/24/2018 04:00:56 PM - INFO - {'nb_neurons': 128, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2557338692925193, 0.77272727272727271]
+
+
+
+01/24/2018 04:01:20 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.4684282505150996, 0.75]
+
+
+
+01/24/2018 04:01:41 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.78589059728564636, 0.7992424242424242]
+
+
+
+01/24/2018 04:02:00 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.2158051313775959, 0.76515151515151514]
+
+
+
+01/24/2018 04:02:27 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.96109743190534191, 0.77272727272727271]
+
+
+
+01/24/2018 04:02:55 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[1.0018950592387805, 0.77272727272727271]
+
+
+
+01/24/2018 04:02:55 PM - INFO - Generation average: 77.77%
+01/24/2018 04:02:55 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 04:02:55 PM - INFO - ***Doing generation 9 of 10***
+01/24/2018 04:03:23 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.64095056418216589, 0.78030303030303028]
+
+
+
+01/24/2018 04:03:44 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.5603396748051499, 0.74242424242424243]
+
+
+
+01/24/2018 04:04:05 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.81609810482371936, 0.78030303030303028]
+
+
+
+01/24/2018 04:04:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.66714830470807629, 0.77651515151515149]
+
+
+
+01/24/2018 04:04:55 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.86526498650059558, 0.75757575757575757]
+
+
+
+01/24/2018 04:05:19 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.93844830357667175, 0.78030303030303028]
+
+
+
+01/24/2018 04:05:45 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[0.79758509180762549, 0.75378787878787878]
+
+
+
+01/24/2018 04:06:10 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2373747897870613, 0.75378787878787878]
+
+
+
+01/24/2018 04:06:31 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.4025283473910708, 0.78030303030303028]
+
+
+
+01/24/2018 04:06:52 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.95016174605398462, 0.77651515151515149]
+
+
+
+01/24/2018 04:07:15 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.2}
+[1.214531573382291, 0.78030303030303028]
+
+
+
+01/24/2018 04:07:15 PM - INFO - Generation average: 77.71%
+01/24/2018 04:07:15 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 04:07:15 PM - INFO - ***Doing generation 10 of 10***
+01/24/2018 04:07:51 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2764830625418462, 0.77272727272727271]
+
+
+
+01/24/2018 04:08:14 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.2}
+[1.5680912787264043, 0.76515151515151514]
+
+
+
+01/24/2018 04:08:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.99870459238688147, 0.80681818181818177]
+
+
+
+01/24/2018 04:09:13 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.99798767675052991, 0.78409090909090906]
+
+
+
+01/24/2018 04:09:39 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.89389095161900378, 0.76515151515151514]
+
+
+
+01/24/2018 04:10:01 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.86682792143388232, 0.78787878787878785]
+
+
+
+01/24/2018 04:10:33 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.7}
+[1.2814737486116814, 0.76893939393939392]
+
+
+
+01/24/2018 04:10:58 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.2}
+[1.5849591981280933, 0.76136363636363635]
+
+
+
+01/24/2018 04:11:19 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'rmsprop', 'dropout': 0.5}
+[1.3801951119394014, 0.78409090909090906]
+
+
+
+01/24/2018 04:11:53 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.7}
+[0.68368780612945557, 0.76515151515151514]
+
+
+
+01/24/2018 04:12:18 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.65793181007558654, 0.75378787878787878]
+
+
+
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 32, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+[0.79573559761047363, 0.76893939393939392]
+
+
+
+01/24/2018 04:12:42 PM - INFO - Generation average: 78.07%
+01/24/2018 04:12:42 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 04:12:42 PM - INFO - --------------------------------------------------------------------------------
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+01/24/2018 04:12:42 PM - INFO - Network accuracy: 80.68%
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+01/24/2018 04:12:42 PM - INFO - Network accuracy: 79.92%
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 3, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+01/24/2018 04:12:42 PM - INFO - Network accuracy: 79.55%
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 64, 'nb_layers': 2, 'activation': 'relu', 'optimizer': 'adamax', 'dropout': 0.5}
+01/24/2018 04:12:42 PM - INFO - Network accuracy: 79.55%
+01/24/2018 04:12:42 PM - INFO - {'nb_neurons': 96, 'nb_layers': 3, 'activation': 'tanh', 'optimizer': 'adamax', 'dropout': 0.2}
+01/24/2018 04:12:42 PM - INFO - Network accuracy: 78.79%
